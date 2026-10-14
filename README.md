@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Junyan! 👋
 
-<!--
-**j-rwx/j-rwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS student at **Drexel University**  
+💻 Interested in **backend development** and **distributed systems**  
+📖 Book lover & 🏃 runner  
+📫 **Contact:** [jw9007235@gmail.com](mailto:jw9007235@gmail.com)
 
-Here are some ideas to get you started:
+## 💼 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **TherapyNotes** · Co-op *(2025–2026)*  
+  `C#` `.NET` `TypeScript` `OracleDB`
+
+- **Susquehanna International Group** · 2× Co-op *(2023–2025)*  
+  `C#` `.NET` `Kafka` `Selenium`
+
+- **Coded By Kids** · Intern *(2022)*  
+  `React` `Tailwind CSS` `Node.js`
+
+  Contact:jw9007235@gmail.com
