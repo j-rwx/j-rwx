@@ -15,5 +15,3 @@
 
 - **Coded By Kids** · Intern *(2022)*  
   `React` `Tailwind CSS` `Node.js`
-
-  Contact:jw9007235@gmail.com
